@@ -1,0 +1,5 @@
+﻿  Juego_Herencias.cpp
+D:\OneDrive - Centre d'Estudis Monlau\M16\UF3-Herencia\Juego_Herencias\Juego_Herencias\Juego_Herencias.cpp(67,41): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\OneDrive - Centre d'Estudis Monlau\M16\UF3-Herencia\Juego_Herencias\Juego_Herencias\Juego_Herencias.cpp(102,41): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\OneDrive - Centre d'Estudis Monlau\M16\UF3-Herencia\Juego_Herencias\Juego_Herencias\Juego_Herencias.cpp(192,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Juego_Herencias.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\M16\UF3-Herencia\Juego_Herencias\x64\Debug\Juego_Herencias.exe
